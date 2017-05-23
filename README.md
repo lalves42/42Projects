@@ -18,14 +18,14 @@ Reimplement the function printf.
 
 ### Push_swap
 Two programs :
-	1. The first one takes integers and displays the smallest list of specific instructions that sort them.
-	2. The second one takes same integers and checks if the instructions given correctly sort them.
+1. The first one takes integers and displays the smallest list of specific instructions that sort them.
+2. The second one takes same integers and checks if the instructions given correctly sort them.
 
 Push swap has at his disposal 2 stacks and the following instructions :
-	 * sa / sb / ss		- Swap the first 2 elements at the top of stack a / b / both.
-	 * ra / rb / rr		- Shift up all element of stack a / b / both by 1. The first element becomes the last one.
-	 * rra / rrb / rrr	- Shift down all element of stack a / b / both by 1. The last element becomes the first one.
-	 * pa / pb			- Take the first element of a / b and put it at the top of the other stack.
+* sa / sb / ss		Swap the first 2 elements at the top of stack a / b / both.
+* ra / rb / rr		Shift up all element of stack a / b / both by 1. The first element becomes the last one.
+* rra / rrb / rrr	Shift down all element of stack a / b / both by 1. The last element becomes the first one.
+* pa / pb			Take the first element of a / b and put it at the top of the other stack.
 At start a represent the integers given and b is empty, at end integers must be sorted on a.
 
 ### Lem_in
