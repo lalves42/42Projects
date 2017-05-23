@@ -1,4 +1,4 @@
-<center>#42Projects</center>
+<center><h1>42Projects</h1></center>
 
 There are my school projects at 42.
 If you want more infos about a project, all the subjects are in their directories.
