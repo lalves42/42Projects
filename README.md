@@ -1,5 +1,4 @@
-<center> <h1>heading 1</h1> </center>
-
+#42Projects
 There are my school projects at 42.
 If you want more infos about a project, all the subjects are in their directories.
 
