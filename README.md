@@ -1,25 +1,25 @@
 <p align="center">
-#42Projects
+# 42Projects
 </p>
 
 There are my school projects at 42.
 If you want more infos about a project, all the subjects are in their directories.
 
 
-###Libft
+### Libft
 First project of the cursus, reimplement functions of C standard library in order to use them for the next projects.
 Allowed functions: `write`, `malloc` and `free`.
 
-###Fillit
+### Fillit
 A program that takes between 1 and 26 Tetris pieces and fit them in the smallest square possible.
 
-###Get_next_line
+### Get_next_line
 A function that reads on a fd line by line to parse a file. It handles reading on multiple fd at the same time.
 
-###Printf
+### Printf
 Reimplement the function printf.
 
-###Push_swap
+### Push_swap
 Two programs :
 	1. The first one takes integers and displays the smallest list of specific instructions that sort them.
 	2. The second one takes same integers and checks if the instructions given correctly sort them.
@@ -31,7 +31,7 @@ Push swap has at his disposal 2 stacks and the following instructions :
 	 * pa / pb			- Take the first element of a / b and put it at the top of the other stack.
 At start a represent the integers given and b is empty, at end integers must be sorted on a.
 
-###Lem_in
+### Lem_in
 
 
-###Corewar
+### Corewar
