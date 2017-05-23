@@ -1,5 +1,6 @@
 <p align="center">
-# 42Projects
+42Projects
+==========
 </p>
 
 There are my school projects at 42.
