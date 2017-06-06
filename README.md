@@ -2,11 +2,7 @@
 
 There are my school projects at 42.
 All of them are made in C respecting : [42 norm](https://github.com/lalves42/Files/blob/master/norm.pdf).
-If you want more infos about a project, all the subjects are in their directories.
-
-There are my school projects at 42.
-All of them are made in C respecting [42 norm](https://github.com/lalves42/Files/blob/master/norm.pdf).
-If you want more infos about a project, all the subjects are in their directories.
+You can find a more detailed README and the subject in project directories.
 
 ### Libft
 First project of the cursus, reimplement functions of C standard library in order to use them for the next projects.
