@@ -1,7 +1,7 @@
 <h1>42Projects</h1>
 
 There are my school projects at 42.
-All of them are made in C respecting : [42 norm](https://github.com/lalves42/Files/blob/master/norm.pdf).
+All of them are made in C respecting : [42 norm](https://github.com/lalves42/Files/blob/master/norm.pdf).  
 You can find a more detailed README and the subject in project directories.
 
 ### Libft
