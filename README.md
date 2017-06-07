@@ -10,19 +10,19 @@ First project of the cursus, reimplement functions of C standard library in orde
 Allowed functions: `write`, `malloc` and `free`.
 
 
-### Fillit
+### [Fillit](https://github.com/lalves42/42Projects/tree/master/Fillit)
 A program that takes between 1 and 26 Tetris pieces and fit them in the smallest square possible.
 
 
-### Get_next_line
+### [Get_next_line](https://github.com/lalves42/42Projects/tree/master/Gnl)
 A function that reads on a fd line by line to parse a file. It handles reading on multiple fd at the same time.
 
 
-### Printf
+### [Printf](https://github.com/lalves42/42Projects/tree/master/Printf)
 Reimplement the function printf.
 
 
-### Push_swap
+### [Push_swap](https://github.com/lalves42/42Projects/tree/master/Push_Swap)
 Two programs :
 1. The first one takes integers and displays the smallest list of specific instructions that sort them.
 2. The second one takes same integers and checks if the instructions given correctly sort them.
@@ -36,7 +36,7 @@ Push swap has at his disposal 2 stacks and the following instructions :
 At start a represent the integers given and b is empty, at end integers must be sorted on a.
 
 
-### Lem_in
+### [Lem_in](https://github.com/lalves42/42Projects/tree/master/Lem_In)
 
 
-### Corewar
+### [Corewar](https://github.com/lalves42/42Projects/tree/master/Corewar)
