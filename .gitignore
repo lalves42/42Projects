@@ -6,6 +6,12 @@
 
 ## Executables
 *.out
+fillit
+push_swap
+checker
+lem-in
+asm
+corewar
 
 ## Valgrind Files
 *.dSYM
