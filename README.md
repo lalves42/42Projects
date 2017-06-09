@@ -2,7 +2,7 @@
 
 There are my school projects at 42.
 All of them are made in C respecting [42 norm](https://github.com/lalves42/Files/blob/master/norm.pdf).  
-You can find the subject and, if needed, a more detailed README in each project directory..
+You can find the subject and, if needed, a more detailed README in each project directory.
 
 
 ### [Libft](https://github.com/lalves42/42Projects/tree/master/Libft)
@@ -23,7 +23,8 @@ Reimplement the function printf.
 
 
 ### [Push_swap](https://github.com/lalves42/42Projects/tree/master/Push_Swap)
-Two programs :
+Push_swap is an algorithm that sorts as quickcly as possible a list of integers.  
+There are two programs :
 1. `push_swap` takes integers and displays the smallest list of specific instructions that sorts them.
 2. `checker` takes same integers and checks if the instructions given correctly sort them.
 
@@ -32,7 +33,7 @@ Two programs :
 A program that takes an ant farm and shows the fastest way to bring all ants room by room from start to end. A room can only contain one ant at a time, except start and end ones.
 
 ### [Corewar](https://github.com/lalves42/42Projects/tree/master/Corewar)
-Corewar is a programming game in which two or more *battle programs* (called champions) compete for control of a virtual machine.
-Two programs :
-1. `asm` compilates a champion.s, written in an assembly langage, to a bytecode readable by the VM.
-2. `corewar` loads champions bytecode in a 4096 bytes memory arena and run them until only one survive. A graphical interface allows you to see the state of the memory arena during the battle.
+Corewar is a programming game in which two or more *battle programs* (called champions) compete for control of a virtual machine.  
+There are two programs :
+1. `asm` compilates a champion.s, written in an assembly language, to a bytecode readable by the virtual machine.
+2. `corewar`, the virtual machine, loads champions bytecode in a 4096 bytes memory arena and run them until only one survive. A graphical interface allows you to see the state of the memory arena during the battle.
