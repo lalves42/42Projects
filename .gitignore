@@ -6,12 +6,12 @@
 
 ## Executables
 *.out
-fillit
-push_swap
-checker
-lem-in
-asm
-corewar
+Fillit/fillit
+Push_Swap/push_swap
+Push_Swap/checker
+Lem_In/lem-in
+Corewar/Assembler/asm
+Corewar/VM/corewar
 
 ## Valgrind Files
 *.dSYM
