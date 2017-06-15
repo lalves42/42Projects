@@ -9,4 +9,4 @@ Then cp some champions.s from `./champions/...` to `./` and you're ready to go.
 
 First step is to create `champions.cor` from your `champions.s` using asm.  
 **Usage** :  
-![Asm usage](https://www.hostingpics.net/viewer.php?id=749826asmusage.png)
+![Asm usage](https://img4.hostingpics.net/pics/749826asmusage.png)
