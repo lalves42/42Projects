@@ -5,6 +5,7 @@
 `git clone https://github.com/lalves42/42Projects.git`  
 `cd 42Projects/Corewar`  
 `./install.sh`  
+
 Then cp some champions.s from `./champions/...` to `./` and you're ready to go.  
 
 ### Asm
