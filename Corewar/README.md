@@ -13,11 +13,11 @@ Then cp some champions.s from `./champions/...` to `./` and you're ready to go.
 ![Asm usage](https://img4.hostingpics.net/pics/749826asmusage.png)
 
 Firstly you have to create `champions.cor` from your `champions.s` using asm.  
-Now you can run the Corewar.
+Then you can run the Corewar.
 
 ### Corewar
 **Usage** :  
 ![Asm usage](https://img4.hostingpics.net/pics/777227corewarusage.png)
 
-### Examples
+### Example
 *insert gif*
