@@ -19,5 +19,5 @@ Now you can run the Corewar.
 **Usage** :  
 ![Asm usage](https://img4.hostingpics.net/pics/777227corewarusage.png)
 
-**Examples** :  
+### Examples
 *insert gif*
